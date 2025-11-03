@@ -4,7 +4,6 @@
 ## 📋 Table of Contents
 
 - [⚖️ Legal Disclaimer](#️-legal-disclaimer)
-- [🚨 Security Warning](#-security-warning)
 - [❓ About GenP](#-about-genp)
 - [✅ System Requirements](#-system-requirements)
 - [📥 Downloads](#-downloads)
@@ -24,14 +23,12 @@
 > - Provide this for **educational and research purposes only**
 >
 > **Terms of Use:**
-> - This software is strictly for **educational and research purposes only**
+> - This tool is strictly for **educational and research purposes only**
 > - Users assume **full responsibility** for any use
 > - **No warranties or guarantees** provided for any use
 > - Owner/maintainers accept **no liability** for any misuse
 
 ---
-
-## 🚨 Security Warning
 
 > [!WARNING]
 > **NEVER DOWNLOAD GenP FROM:**
@@ -39,7 +36,7 @@
 > | Source Type | Examples |
 > |-------------|----------|
 > | **Video Platforms** | YouTube tutorials, TikTok, video descriptions |
-> | **Code Hosting** | GitHub (always check the sources and binaries), GitLab |
+> | **Code Hosting** | GitHub (always verify the legitimacy of source-codes and/or binaries before running) |
 > | **Social Media** | Discord servers, Telegram channels, Reddit posts |
 > | **File Sharing** | MediaFire, Mega.nz, torrent sites, P2P networks |
 > | **Third-Party Sites** | Any site with ads, surveys, wait times, or extra clicks |
@@ -167,14 +164,14 @@
 
 ### Version Information
 
-- **Latest Stable:** v3.7.0 (recommended, fixes v2026 apps)
-- **Legacy Versions:** See [Releases](https://github.com/Cur10s1tyByt3/GenP/releases)/[Source Codes](https://github.com/Cur10s1tyByt3/GenP/tree/main/Source%20Code) for older builds/source codes
+- **Latest Stable:** v3.7.0 (recommended, fixes v2026 apps - see [Releases](https://github.com/Cur10s1tyByt3/GenP/releases) for more info/download)
+- **Legacy Versions:** See [Releases](https://github.com/Cur10s1tyByt3/GenP/tree/main/Releases)/[Source Codes](https://github.com/Cur10s1tyByt3/GenP/tree/main/Source%20Code) for older builds/source codes
 
 ---
 
 ## 📖 Documentation
 
-### Official Resources
+### Resources
 
 <table>
 <tr>
@@ -261,13 +258,13 @@ In Photoshop, set Remove Tool mode to **"Generative AI Off"**. This reverts to S
 
 ## 🌐 Community
 
-### Official Support Channels
+### Support Forum/GC
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 💬 Lemmy Forum
+### 💬 Forum
 **[lemmy.dbzer0.com/c/GenP](https://lemmy.dbzer0.com/c/GenP)**
 
 📝 Long-form discussions<br>
@@ -278,7 +275,7 @@ In Photoshop, set Remove Tool mode to **"Generative AI Off"**. This reverts to S
 </td>
 <td align="center" width="33%">
 
-### 🗨️ Stoat Chat
+### 🗨️ Chat
 **[stoat.chat/invite/p3V3ETD4](https://stoat.chat/invite/p3V3ETD4)**
 
 ⚡ Real-time support<br>
@@ -289,7 +286,7 @@ In Photoshop, set Remove Tool mode to **"Generative AI Off"**. This reverts to S
 </td>
 <td align="center" width="33%">
 
-### 📖 Official Wiki
+### 📖 Wiki
 **[wiki.dbzer0.com/genp-guides](https://wiki.dbzer0.com/genp-guides)**
 
 📘 Complete documentation<br>
