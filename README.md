@@ -164,8 +164,8 @@
 
 ### Version Information
 
-- **Latest Stable:** v3.7.0 (recommended, fixes v2026 apps - see [Releases](https://github.com/Cur10s1tyByt3/GenP/releases) for more info/download)
-- **Legacy Versions:** See [Releases](https://github.com/Cur10s1tyByt3/GenP/tree/main/Releases)/[Source Codes](https://github.com/Cur10s1tyByt3/GenP/tree/main/Source%20Code) for older builds/source codes
+- **Latest Stable:** v3.7.1 (recommended, see [Releases](https://github.com/Cur10s1tyByt3/GenP/releases) for more info/download)
+- **Legacy Versions:** See [Releases](https://github.com/Cur10s1tyByt3/GenP/tree/main/Releases)/[SRCs](https://github.com/Cur10s1tyByt3/GenP/tree/main/SRCs) for older builds/sources
 
 ---
 
