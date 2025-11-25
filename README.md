@@ -286,6 +286,14 @@ In Photoshop, set Remove Tool mode to **"Generative AI Off"**. This reverts to S
 📋 Compatibility lists<br>
 
 </td>
+<td align="center" width="33%">
+
+### 🎉 Official Website
+**[gen.paramore.su](https://gen.paramore.su)**
+
+✨ Official source for latest releases<br>
+
+</td>
 </tr>
 </table>
 
