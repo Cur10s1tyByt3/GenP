@@ -1,0 +1,19 @@
+============================================================
+GenP Release Information
+Version: 4.0.0
+Release Date: 2026-03-16
+Release ID: GENP-4.0.0-20260316
+============================================================
+
+------------------------------------------------------------
+
+File:     GenP-v4.0.0.exe
+
+SHA256:   551FBEB7E5EE2F4E6B7212A95266E58E14CD4B301ECFC297E8FBBD00AD5EB8A0
+
+Integrity Verification:
+Verify the downloaded file using the SHA256 checksum above.
+
+------------------------------------------------------------
+
+End of release information.
